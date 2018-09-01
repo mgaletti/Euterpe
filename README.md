@@ -8,7 +8,7 @@ as well as other studies from [LaBic](http://labic.eco.br) focusing on _Euterpe 
 
 Feel free to use among your students. 
 
-The codes here and data were organized by:
+The data and codes were organized by:
 
 Mauro Galetti - São Paulo State University (UNESP), Rio Claro, SP, Brazil
 
@@ -25,6 +25,8 @@ Debora Rother -
 Marco Aurélio Pizo - São Paulo State University (UNESP), Rio Claro, SP, Brazil
 
 Mathias M. Pires - Campinas State University (UNICAMP), Campinas, Brazil
+
+Pedro Brancalion - São Paulo University, Piracicaba, Brazil
 
 
 
