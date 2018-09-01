@@ -7,3 +7,17 @@ Galetti, M., Guevara, R., Côrtes, M. C., Fadini, R., Sandro Von Matter, Abraão
 as well as other studies from [LaBic](http://labic.eco.br) focusing on _Euterpe edulis_.
 
 ![Palmito juçara](./images/Palmito_collage_large.jpg)
+
+---------
+
+The data and codes were organized by:
+
+Mauro Galetti - São Paulo State University (UNESP), Rio Claro, SP, Brazil.    
+Pedro Jordano - Estación Biolófgica de Doñana (EBD-CSIC), Sevilla, Spain.        
+Marina Côrrea Cortês - São Paulo State University (UNESP), Rio Claro, SP, Brazil.       
+Milton Cezar Ribeiro - São Paulo State University (UNESP), Rio Claro, SP, Brazil.      
+Carolina Carvalho - São Paulo State University (UNESP), Rio Claro, SP, Brazil.     
+Débora Rother - Laboratório de Ecologia e Restauração Florestal, Esalq/USP - Piracicaba, SP, Brazil.     
+Marco Aurélio Pizo - São Paulo State University (UNESP), Rio Claro, SP, Brazil.    
+Mathias M. Pires - Campinas State University (UNICAMP), Campinas, SP, Brazil.       
+Pedro Brancalion - Laboratório de Ecologia e Restauração Florestal, Esalq/USP - Piracicaba, SP, Brazil.         
