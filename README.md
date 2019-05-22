@@ -1,4 +1,5 @@
-# Euterpe
+# Euterpe: a series of papers of a dominant palm in the Atlantic forest
+
 Here we have a series of examples how to teach ecology using data from _Euterpe edulis_ (Aracaceae), a dominant keystone palm from the Atlantic tropical and subtropical forests of South America. We use some of these examples and datasets for the [Programa de Pós-Graduação em Ecologia e Biodiversidade](http://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/).
 
 This material accompanies:
